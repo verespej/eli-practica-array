@@ -1,4 +1,4 @@
-// Data un array, devolver la reversa.
+// Dada un array, devolver la reversa.
 //
 // Ej: [1, 2] => [2, 1]
 // Ej: [124, 2, 33, 6] => [6, 33, 2, 124]
